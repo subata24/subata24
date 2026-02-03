@@ -18,7 +18,7 @@ I build real-world projects in healthcare and data analytics, with a long-term g
 **Languages:** Python, SQL, Bash, HTML, C++
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, PyTorch, Seaborn, TensorFlow
 **Frameworks & Tools:** Streamlit, FastAPI, Git, Hugging-Face , Docker, Kubernetes  
-**Cloud Platforms:** Google Cloud, AWS, Azure,
+**Cloud Platforms:** Google Cloud, AWS, Azure
 **Currently Learning:** MLOps fundamentals, CI/CD, deployment best practices  
 
 ---
