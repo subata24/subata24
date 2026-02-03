@@ -15,13 +15,22 @@ I build real-world projects in healthcare and data analytics, with a long-term g
 ---
 
 ### 🛠️ Skills & Tools
-**Languages:** Python, SQL, Bash, HTML, C++
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, PyTorch, Seaborn, TensorFlow
-**Frameworks & Tools:** Streamlit, FastAPI, Git, Hugging-Face , Docker, Kubernetes  
-**Cloud Platforms:** Google Cloud, AWS, Azure
-**Currently Learning:** MLOps fundamentals, CI/CD, deployment best practices  
 
----
+**Languages:**  
+Python, SQL, Bash, HTML, C++
+
+**Libraries:**  
+Pandas, NumPy, Scikit-learn, Matplotlib, PyTorch, Seaborn, TensorFlow
+
+**Frameworks & Tools:**  
+Streamlit, FastAPI, Git, Hugging Face, Docker, Kubernetes  
+
+**Cloud Platforms:**  
+Google Cloud, AWS, Azure
+
+**Currently Learning:**  
+MLOps fundamentals, CI/CD, deployment best practices
+
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subata-khan-217712327)  
